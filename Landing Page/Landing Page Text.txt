@@ -1,0 +1,29 @@
+
+Bookme is developing a web app which will revolutionize the booking process and management of performing artists.
+
+T1- Your one-stop shop for booking and managing performing artists
+
+T2- Bookme is an online collaborative marketplace and management service, enabling event hosts to book and manage performing artists.
+
+T-3 For event organizers - Bookme provides a convenient, collaborative marketplace to find, hire and manage artists and upcoming events.
+
+T-4 For artists - Bookme allows for a unique way to promote your brand, reach out to a large audience, find new clients or events to perform at, manage upcoming shows and get paid in full, securely and on time.
+
+T-5 How it works
+
+T-6 Event Host
+1) Find an artist: With Bookme, you’ll be able to find the perfect artist for your concert, show, or any live event.
+2) Determine Logistics: Say goodbye to the headache of artist logistics! You’ll be able to work through every aspect of the booking process through Bookme.
+3) Hire: We make the booking process simple: after a request is sent to an artist and they approve the artist is reserved!
+4) Pay easily and with peace of mind: With our secure payment processor, both you and the artist will be able to rest easy knowing your money is 100% secure.
+5) Manage: keep track of all your artists, as well as their flights, hotel stays, and ground transportation in a centralized hub.
+
+T-7 Artist
+1) Find amazing event opportunities: Thinking of Doing in Ibiza? Signing in San Francisco? Now it’s easier than ever to find gigs that interest you.
+2) Get Hired Fast: Bookme does the heavy lifting regarding dealing with event contracts and logistics so you can spend more time performing.
+3) Simple patron fulfillment tracking: No more stressing that the host won’t pay you in full or worrying if transportation is organized. You’ll be able to track exactly what the host has left to fulfill for the event.
+4) Get paid in full and on time: Every event is protected by “Bookme Payment Protection” - ensuring that you will get paid for your performance. 
+
+T-9Let’s get in touch!
+- Bookme is currently being developed. For all inquiries about the service, please email: bookme.main@gmail.com
+
